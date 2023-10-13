@@ -29,4 +29,6 @@ setup(
     author='MS. Valdes-Trasanco and ME. Valdes-Tresanco ',
     author_email='bioinfobrothers@gmail.com',
     description='Translation of ADT to python3.x'
+    scripts=['AutoDockTools/Utilities24/prepare_receptor4.py',
+        'AutoDockTools/Utilities24/prepare_ligand4.py‘]
 )
